@@ -25,5 +25,8 @@
     "@supabase/supabase-js": "^2.43.0",
     "xlsx": "^0.18.5"
   },
-  "type": "module"
+  "type": "module",
+  "engines": {
+    "node": "20.x"
+  }
 }
